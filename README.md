@@ -1,5 +1,5 @@
-**Nama : Nadhia Shafira**
-**NIM : 312410498**
+**Nama : riswan satria juniarto
+**NIM : 312410546
 **Kelas : TI.24.A5**
 
 **HASIL OUTPUT**
